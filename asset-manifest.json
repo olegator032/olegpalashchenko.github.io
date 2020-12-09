@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.af5ea1f0.chunk.css",
-    "main.js": "/static/js/main.731dfeb7.chunk.js",
-    "main.js.map": "/static/js/main.731dfeb7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ab85eab3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ab85eab3.js.map",
-    "static/js/2.7599c84a.chunk.js": "/static/js/2.7599c84a.chunk.js",
-    "static/js/2.7599c84a.chunk.js.map": "/static/js/2.7599c84a.chunk.js.map",
-    "static/js/3.63fb59fc.chunk.js": "/static/js/3.63fb59fc.chunk.js",
-    "static/js/3.63fb59fc.chunk.js.map": "/static/js/3.63fb59fc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.af5ea1f0.chunk.css.map": "/static/css/main.af5ea1f0.chunk.css.map",
-    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/static/js/2.7599c84a.chunk.js.LICENSE.txt",
-    "static/media/oleg.95116006.jpg": "/static/media/oleg.95116006.jpg",
-    "static/media/urban-logo-2020.48adafee.svg": "/static/media/urban-logo-2020.48adafee.svg"
+    "main.css": "/olegpalashchenko.github.io/static/css/main.af5ea1f0.chunk.css",
+    "main.js": "/olegpalashchenko.github.io/static/js/main.731dfeb7.chunk.js",
+    "main.js.map": "/olegpalashchenko.github.io/static/js/main.731dfeb7.chunk.js.map",
+    "runtime-main.js": "/olegpalashchenko.github.io/static/js/runtime-main.bde937ab.js",
+    "runtime-main.js.map": "/olegpalashchenko.github.io/static/js/runtime-main.bde937ab.js.map",
+    "static/js/2.7599c84a.chunk.js": "/olegpalashchenko.github.io/static/js/2.7599c84a.chunk.js",
+    "static/js/2.7599c84a.chunk.js.map": "/olegpalashchenko.github.io/static/js/2.7599c84a.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/olegpalashchenko.github.io/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/olegpalashchenko.github.io/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/olegpalashchenko.github.io/index.html",
+    "static/css/main.af5ea1f0.chunk.css.map": "/olegpalashchenko.github.io/static/css/main.af5ea1f0.chunk.css.map",
+    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/olegpalashchenko.github.io/static/js/2.7599c84a.chunk.js.LICENSE.txt",
+    "static/media/oleg.95116006.jpg": "/olegpalashchenko.github.io/static/media/oleg.95116006.jpg",
+    "static/media/urban-logo-2020.48adafee.svg": "/olegpalashchenko.github.io/static/media/urban-logo-2020.48adafee.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab85eab3.js",
+    "static/js/runtime-main.bde937ab.js",
     "static/js/2.7599c84a.chunk.js",
     "static/css/main.af5ea1f0.chunk.css",
     "static/js/main.731dfeb7.chunk.js"
