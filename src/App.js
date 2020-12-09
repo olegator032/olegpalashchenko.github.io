@@ -96,29 +96,38 @@ function App() {
         </div>
       </div>
       <div className="sub-header">
-          <h3 style={{ fontSize: 30, paddingTop: 35 }}>About me</h3>
-          <div className="underline"></div>
-        </div>
-        <div className="education">
-        <h3 style={{color: "gold", marginBottom: -30}}>Education & Trainings</h3>
+        <h3 style={{ fontSize: 30, paddingTop: 35 }}>About me</h3>
+        <div className="underline"></div>
+      </div>
+      <div className="education">
+        <h3 style={{ color: "gold", marginBottom: -30 }}>
+          Education & Trainings
+        </h3>
         <br></br>
-Vilnius Gedimino Technical University,	&nbsp; Bachelor 's degree in IT.
-        </div>
-        <div className="education">
-        <h3 style={{color: "gold", marginBottom: -30}}>Hobbies</h3>
+        Vilnius Gedimino Technical University, &nbsp; Bachelor 's degree in IT.
+      </div>
+      <div className="education">
+        <h3 style={{ color: "gold", marginBottom: -30 }}>Hobbies</h3>
         <br></br>
-Photography,	&nbsp; drifting, &nbsp; technologies.
-        </div>
-        <div className="sub-header">
-          <h3 style={{ fontSize: 30, paddingTop: 35 }}>Contacts</h3>
-          <div className="underline"></div>
-        </div>
-        <div className="education">
-
+        Photography, &nbsp; drifting, &nbsp; technologies.
+      </div>
+      <div className="sub-header">
+        <h3 style={{ fontSize: 30, paddingTop: 35 }}>Contacts</h3>
+        <div className="underline"></div>
+      </div>
+      <div className="education">
         <br></br>
-<center>Vilnius, Lithuania &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +37063199371 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;palashchenko.oleg@gmail.com</center>
-<div className="underline" style={{width: "80%", marginLeft: 120, paddingTop: 15}}></div>
-        </div>
+        <center>
+          Vilnius, Lithuania
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          +37063199371
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;palashchenko.oleg@gmail.com
+        </center>
+        <div
+          className="underline"
+          style={{ width: "80%", marginLeft: 120, paddingTop: 15 }}
+        ></div>
+      </div>
       <div className="footer">
         <div className="name">Oleg Palashchenko</div>
         <div className="links">
