@@ -1,11 +1,44 @@
-.root{
-  background-color: #2E0046;
+.root {
+  background-color: #2e0046;
 }
-.sub-header{
+.sub-header {
   margin-top: 100px;
   text-align: center;
   background-color: gold;
-  color: black
+  color: black;
+}
+
+.footer {
+  padding-top: 100px;
+}
+
+.education {
+  color: white;
+  font-size: 30px;
+  padding-left: 140px;
+  font-weight: bold;
+  letter-spacing: -2px;
+  padding-top: 20px;
+}
+.name {
+  color: white;
+  font-size: 40px;
+  padding-left: 140px;
+  font-weight: bold;
+  letter-spacing: -2px;
+}
+
+.links {
+  color: gold;
+  font-size: 30px;
+  padding-left: 140px;
+  font-weight: bold;
+  letter-spacing: -2px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.links.a {
+  color: gold;
 }
 
 .work-experience {
@@ -18,21 +51,21 @@
   margin-left: 150px;
   padding-top: 30px;
   font-weight: normal;
-  color:gold;
-
+  color: gold;
 }
 
-.experience-right-column{
+.experience-right-column {
   font-size: 20px;
   font-weight: 100;
-  font-family: Montserrat }
-.underline{
-  flex: 1 1 auto;
-    height: 3px;
-    border-bottom: 6.5px solid gold;
-    margin-bottom: 0.4rem;
+  font-family: Montserrat;
 }
-.info-part{
+.underline {
+  flex: 1 1 auto;
+  height: 3px;
+  border-bottom: 6.5px solid gold;
+  margin-bottom: 0.4rem;
+}
+.info-part {
   flex: 2 2 66%;
   letter-spacing: -1px;
   font-size: 1.78rem;
@@ -54,25 +87,24 @@
 
 .photo {
   border-radius: 1000px;
-    width: 50%;
-    position: relative;
-    left: 60%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-
+  width: 50%;
+  position: relative;
+  left: 60%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
-.left-column{
+.left-column {
   text-align: justify;
   margin: auto;
 }
-.left-column1{
+.left-column1 {
   text-align: justify;
   margin-left: -400px;
 }
 
-.right-column{
-  color:white;
+.right-column {
+  color: white;
   margin-right: 105px;
 }
 
@@ -102,24 +134,23 @@
   color: #61dafb;
 }
 
-.page-header{
+.page-header {
   text-align: center;
   margin: 0rem 0px 0rem;
-    font-size: 3rem;
-    letter-spacing: -3.5px;
-    color:white;
-    margin-top: -30px;
+  font-size: 3rem;
+  letter-spacing: -3.5px;
+  color: white;
+  margin-top: -30px;
 }
 
-.speciality{
+.speciality {
   margin-top: -70px;
-  color:gold;
+  color: gold;
   font-size: 5rem;
 }
-.body{
-  background-color: #2E0046;
+.body {
+  background-color: #2e0046;
 }
-
 
 @keyframes App-logo-spin {
   from {
